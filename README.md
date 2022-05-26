@@ -1,6 +1,6 @@
-# Login-Registro-Listar
-###  Java Web /  Web Application
-## Proyecto SpringMVC , Realiza login , registro y list de Usuario
+## SpringMVC
+###  Proyecto Java Web Application 
+- #### Realiza login - registro y lista de Usuario
 
 ![Login - Internet Explorer 27_9_2021 19_45_18](https://user-images.githubusercontent.com/88462536/135169420-7b4ba1c2-636d-4484-92da-32fde3d530f7.png)
 ![Login - Internet Explorer 27_9_2021 19_45_41](https://user-images.githubusercontent.com/88462536/135169454-070fd6b8-f222-4a87-9d21-f2d08e63eb41.png)
